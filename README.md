@@ -137,7 +137,7 @@ Kotlin语言可以在JetBrains提供的工具大放异彩。
 
 ## Conclusion
 
-Kotlin已经介绍完毕，之后就跟着我一起来学习它吧，我会把我所学到的都发不在[HelloKotlin][hello_kotlin]库中，喜欢的话点个star给柯基动力吧。
+Kotlin已经介绍完毕，之后就跟着我一起来学习它吧，我会把我所学到的都发布在[HelloKotlin][hello_kotlin]库中，喜欢的话点个star给柯基动力吧。
 
 想进微信讨论群的话扫一下我微信，加我好友，注明“kotlin”即可，我会把你拉到群里。
 
