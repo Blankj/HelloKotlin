@@ -141,7 +141,7 @@ Kotlin已经介绍完毕，之后就跟着我一起来学习它吧，我会把�
 
 想进微信讨论群的话扫一下我微信，加我好友，注明“kotlin”即可，我会把你拉到群里。
 
-[Blankj 2D barcode][blankj]
+![Blankj 2D barcode][blankj]
 
 
 
@@ -154,7 +154,7 @@ Kotlin已经介绍完毕，之后就跟着我一起来学习它吧，我会把�
 [kotlin_github]: https://github.com/JetBrains/kotlin
 [kotlin_doc_eng]: http://kotlinlang.org/docs/
 [kotlin_doc_cn]: https://www.gitbook.com/book/huanglizhuo/kotlin-in-chinese/details
-[kotlin_doc_cn_pdf]: hhttps://github.com/Blankj/HelloKotlin/raw/master/art/kotlin_doc_cn.pdf
+[kotlin_doc_cn_pdf]: https://github.com/Blankj/HelloKotlin/raw/master/art/kotlin_doc_cn.pdf
 [kotlin_for_android_developers_eng]: https://leanpub.com/kotlin-for-android-developers
 [kotlin_for_android_developers_cn]: https://github.com/wangjiegulu/kotlin-for-android-developers-zh
 [kotlin_for_android_developers_cn_pdf]: https://github.com/Blankj/HelloKotlin/raw/master/art/kotlin_for_android_developers_cn.pdf
