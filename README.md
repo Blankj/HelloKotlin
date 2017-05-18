@@ -113,19 +113,25 @@ E.g.
 
 Kotlin语言可以在JetBrains提供的工具大放异彩。
 
-[tooling0][tooling0]
+![tooling0][tooling0]
 
-[tooling1][tooling1]
+![tooling1][tooling1]
 
 
 ## Learn Material
 
 [Kotlin Github][kotlin_github]
+
 [Kotlin官方Doc][kotlin_doc_eng]
+
 [Kotlin官方Doc中文][kotlin_doc_cn]
+
 [Kotlin官方Doc中文PDF][kotlin_doc_cn_pdf]
+
 [Kotlin for Android Developers(有钱你就买吧)][kotlin_for_android_developers_eng]
+
 [Kotlin for Android Developers中文][kotlin_for_android_developers_cn]
+
 [Kotlin for Android Developers中文PDF][kotlin_for_android_developers_cn_pdf]
 
 
@@ -146,8 +152,8 @@ Kotlin已经介绍完毕，之后就跟着我一起来学习它吧，我会把�
 [kotlin_github]: https://github.com/JetBrains/kotlin
 [kotlin_doc_eng]: http://kotlinlang.org/docs/
 [kotlin_doc_cn]: https://www.gitbook.com/book/huanglizhuo/kotlin-in-chinese/details
-[kotlin_doc_cn_pdf]: https://github.com/Blankj/HelloKotlin/blob/master/art/kotlin_doc_cn.pdf
+[kotlin_doc_cn_pdf]: hhttps://github.com/Blankj/HelloKotlin/raw/master/art/kotlin_doc_cn.pdf
 [kotlin_for_android_developers_eng]: https://leanpub.com/kotlin-for-android-developers
 [kotlin_for_android_developers_cn]: https://github.com/wangjiegulu/kotlin-for-android-developers-zh
-[kotlin_for_android_developers_cn_pdf]: https://github.com/Blankj/HelloKotlin/blob/master/art/kotlin_for_android_developers_cn.pdf
+[kotlin_for_android_developers_cn_pdf]: https://github.com/Blankj/HelloKotlin/raw/master/art/kotlin_for_android_developers_cn.pdf
 [hello_kotlin]: https://github.com/Blankj/HelloKotlin
