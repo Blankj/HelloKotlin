@@ -134,6 +134,8 @@ Kotlin语言可以在JetBrains提供的工具大放异彩。
 
 [Kotlin for Android Developers中文PDF][kotlin_for_android_developers_cn_pdf]
 
+[Kotlin sample][kotlin_sample]
+
 [A Complete Guide To Learn Kotlin For Android Development][A Complete Guide To Learn Kotlin For Android Development]
 
 [Get Started with Kotlin on Android][Get Started with Kotlin on Android]
@@ -152,9 +154,9 @@ Kotlin已经介绍完毕，之后就跟着我一起来学习它吧，我会把�
 [kotlin]: https://kotlinlang.org/
 [as3_pre]: https://developer.android.com/studio/preview/index.html
 [try_kotlin]: http://try.kotlinlang.org/
-[kotlin_app_for]: https://github.com/Blankj/HelloKotlin/blob/master/art/kotlin_app_for.png
-[tooling0]: https://github.com/Blankj/HelloKotlin/blob/master/art/tooling0.png
-[tooling1]: https://github.com/Blankj/HelloKotlin/blob/master/art/tooling1.png
+[kotlin_app_for]: https://raw.githubusercontent.com/Blankj/HelloKotlin/master/art/kotlin_app_for.png
+[tooling0]: https://raw.githubusercontent.com/Blankj/HelloKotlin/master/art/tooling0.png
+[tooling1]: https://raw.githubusercontent.com/Blankj/HelloKotlin/master/art/tooling1.png
 [kotlin_github]: https://github.com/JetBrains/kotlin
 [kotlin_doc_eng]: http://kotlinlang.org/docs/
 [kotlin_doc_cn]: https://www.kotlincn.net/docs/reference/
@@ -162,7 +164,8 @@ Kotlin已经介绍完毕，之后就跟着我一起来学习它吧，我会把�
 [kotlin_for_android_developers_eng]: https://leanpub.com/kotlin-for-android-developers
 [kotlin_for_android_developers_cn]: https://github.com/wangjiegulu/kotlin-for-android-developers-zh
 [kotlin_for_android_developers_cn_pdf]: https://github.com/Blankj/HelloKotlin/raw/master/art/kotlin_for_android_developers_cn.pdf
+[Kotlin sample]: https://developer.android.com/samples/index.html?language=kotlin
 [A Complete Guide To Learn Kotlin For Android Development]: https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8
 [Get Started with Kotlin on Android]: https://developer.android.com/kotlin/get-started.html
 [hello_kotlin]: https://github.com/Blankj/HelloKotlin
-[blankj]: https://github.com/Blankj/HelloKotlin/blob/master/art/blankj.png
+[blankj]: https://raw.githubusercontent.com/Blankj/HelloKotlin/master/art/blankj.png
