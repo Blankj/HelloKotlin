@@ -157,7 +157,7 @@ Kotlin已经介绍完毕，之后就跟着我一起来学习它吧，我会把�
 [tooling1]: https://github.com/Blankj/HelloKotlin/blob/master/art/tooling1.png
 [kotlin_github]: https://github.com/JetBrains/kotlin
 [kotlin_doc_eng]: http://kotlinlang.org/docs/
-[kotlin_doc_cn]: https://www.gitbook.com/book/huanglizhuo/kotlin-in-chinese/details
+[kotlin_doc_cn]: https://www.kotlincn.net/docs/reference/
 [kotlin_doc_cn_pdf]: https://github.com/Blankj/HelloKotlin/raw/master/art/kotlin_doc_cn.pdf
 [kotlin_for_android_developers_eng]: https://leanpub.com/kotlin-for-android-developers
 [kotlin_for_android_developers_cn]: https://github.com/wangjiegulu/kotlin-for-android-developers-zh
