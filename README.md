@@ -120,6 +120,8 @@ Kotlin语言可以在JetBrains提供的工具大放异彩。
 
 ## Learn Material
 
+[From Java To Kotlin(极力推荐)][From Java To Kotlin]
+
 [Kotlin Github][kotlin_github]
 
 [Kotlin官方Doc][kotlin_doc_eng]
@@ -164,6 +166,7 @@ Kotlin已经介绍完毕，之后就跟着我一起来学习它吧，我会把�
 [kotlin_for_android_developers_eng]: https://leanpub.com/kotlin-for-android-developers
 [kotlin_for_android_developers_cn]: https://github.com/wangjiegulu/kotlin-for-android-developers-zh
 [kotlin_for_android_developers_cn_pdf]: https://github.com/Blankj/HelloKotlin/raw/master/art/kotlin_for_android_developers_cn.pdf
+[From Java To Kotlin]: https://github.com/MindorksOpenSource/from-java-to-kotlin
 [Kotlin_sample]: https://developer.android.com/samples/index.html?language=kotlin
 [A Complete Guide To Learn Kotlin For Android Development]: https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8
 [Get Started with Kotlin on Android]: https://developer.android.com/kotlin/get-started.html
